@@ -1,1 +1,9 @@
 # example-repo
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello there!</title>
+  </head>
+  <body>
+  </body>
+</html>
